@@ -17,24 +17,6 @@ A simple random walk simulation using Python and Pygame. The program simulates a
 - **Python 3.x**
 - **Pygame**: Install it via pip with `pip install pygame`
 
-## How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo/Random-Walk-Simulation.git
-   cd Random-Walk-Simulation
-   ```
-
-2. Install Pygame if not already installed:
-   ```bash
-   pip install pygame
-   ```
-
-3. Run the simulation:
-   ```bash
-   python main.py
-   ```
-
 ## Project Structure
 
 - **`main.py`**: The main script running the random walk simulation.
